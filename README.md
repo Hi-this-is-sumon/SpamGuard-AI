@@ -98,7 +98,7 @@ The backend will run locally at http://127.0.0.1:8000.
 
 ### Chrome Extension Setup
 
-1. Open Chrome and go to chrome://extensions/
+1. Open Chrome and go to [chrome://extensions/](chrome://extensions/)
 2. Enable Developer mode
 3. Click Load unpacked
 4. Select the extension folder
