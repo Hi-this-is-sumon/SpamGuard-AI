@@ -6,7 +6,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const resultContent = document.getElementById('result-content');
     const loaderContainer = document.querySelector('.loader-container');
     const API_BASE_URLS = [
-        'https://inbox-shield-ai-lake.vercel.app',
+        'https://spam-guard-ai-lac.vercel.app',
         'http://localhost:8000'
     ];
 

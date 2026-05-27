@@ -2,7 +2,7 @@
 
 AI-powered Gmail spam detection with a modern Chrome extension and a Python backend.
 
-**Live Site / API:** https://inbox-shield-ai-lake.vercel.app/
+**Live Site / API:** https://spam-guard-ai-lac.vercel.app/
 
 ## What This Project Does
 
@@ -180,4 +180,4 @@ python model/train_model.py
 
 ## License
 
-This project is licensed under the MIT License. See LICENSE.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file.
