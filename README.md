@@ -82,7 +82,31 @@ If the model probability for spam is >= 0.5, the email is labeled as Spam.
 
 ## Installation
 
-### Backend Setup
+### Prerequisites
+
+- **Python 3.8+** (for backend)
+- **Chrome/Chromium browser** (for extension)
+- **Git** (for cloning and version control)
+
+### For End Users
+
+If you just want to use the extension:
+
+1. Visit the landing page: [spam-guard-ai-lac.vercel.app](https://spam-guard-ai-lac.vercel.app/)
+2. Download the ZIP file
+3. Extract it on your computer
+4. Follow the **Chrome Extension Setup** steps below
+
+### For Developers
+
+Clone the repository first:
+
+```bash
+git clone https://github.com/Hi-this-is-sumon/SpamGuard-AI.git
+cd SpamGuard-AI
+```
+
+#### Backend Setup
 
 ```bash
 cd backend
@@ -96,7 +120,7 @@ python app.py
 
 The backend will run locally at http://127.0.0.1:8000.
 
-### Chrome Extension Setup
+#### Chrome Extension Setup
 
 1. Open Chrome and go to [chrome://extensions/](chrome://extensions/)
 2. Enable Developer mode
